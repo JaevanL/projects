@@ -1,7 +1,7 @@
 h1 {
   font-size: 4rem;
   animation: 
-    you-spin-me-right-round 0.1s linear infinite,
+    you-spin-me-right-round 1s linear infinite,
     colorRotate 6s linear infinite;
 }
 
