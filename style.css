@@ -1,26 +1,7 @@
 h1 {
   font-size: 4rem;
   animation: 
-    you-spin-me-right-round 1s linear infinite,
-    colorRotate 6s linear infinite;
-}
-
-@keyframes colorRotate {
-  from {
-    color: #6666ff;
-  }
-  10% {
-    color: #0099ff;
-  }
-  50% {
-    color: #00ff00;
-  }
-  75% {
-    color: #ff3399;
-  }
-  100% {
-    color: #6666ff;
-  }
+    you-spin-me-right-round 1s linear infinite;
 }
 
 @keyframes you-spin-me-right-round {
