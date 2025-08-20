@@ -7,19 +7,19 @@ h1 {
 
 @keyframes colorRotate {
   from {
-    color: hex(#6666ff);
+    color: #6666ff;
   }
   10% {
-    color: hex(#0099ff);
+    color: #0099ff;
   }
   50% {
-    color: hex(#00ff00);
+    color: #00ff00;
   }
   75% {
-    color: hex(#ff3399);
+    color: #ff3399;
   }
   100% {
-    color: hex(#6666ff);
+    color: #6666ff;
   }
 }
 
