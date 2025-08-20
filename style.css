@@ -1,6 +1,6 @@
 h1 {
   font-size: 100rem;
-  animation: you-spin-me-right-round 10s linear infinite;
+  animation: you-spin-me-right-round 10s linear 0s infinite;
 }
 
 @keyframes you-spin-me-right-round {
